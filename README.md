@@ -1,6 +1,6 @@
 # Hyperzod Agent Skills
 
-[![skills.sh](https://skills.sh/b/hyperzod/skills)](https://skills.sh/hyperzod/skills)
+[![skills.sh](https://skills.sh/b/hyperzod/hyperzod-skills)](https://skills.sh/hyperzod/hyperzod-skills)
 
 Agent skills for launching and running on-demand delivery businesses — food delivery, grocery, quick commerce, pharmacy, courier and multi-vendor marketplaces — and for operating a [Hyperzod](https://www.hyperzod.com) store through the Hyperzod MCP connector.
 
@@ -10,10 +10,10 @@ Works with Claude Code, Cursor, Codex, GitHub Copilot, Windsurf and other agents
 
 ```bash
 # all skills
-npx skills add hyperzod/skills
+npx skills add hyperzod/hyperzod-skills
 
 # one skill
-npx skills add hyperzod/skills --skill uber-eats-clone
+npx skills add hyperzod/hyperzod-skills --skill uber-eats-clone
 ```
 
 ## Skills
